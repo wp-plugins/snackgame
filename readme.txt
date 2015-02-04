@@ -1,5 +1,6 @@
 === Snack Game ===
 Contributors: Ashutosh Kumar
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=awesomeworks1%40gmail%2ecom&lc=US&item_name=developer%20fund&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest
 Tags: Snack Game, Html Snack Game, HTML5 Snack Game, html5 Snack Game, HTML Snack Game, canvas Snack Game,web Snack Game
 Requires at least: 3.0.1
 Tested up to: 4.1
